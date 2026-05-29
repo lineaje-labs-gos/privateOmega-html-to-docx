@@ -1,6 +1,6 @@
 {
   "name": "html-to-docx",
-  "version": "1.8.0",
+  "version": "1.8.0-lineaje-01",
   "description": "HTML to DOCX converter",
   "keywords": [
     "html",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/privateOmega/html-to-docx.git"
+    "url": "https://github.com/lineaje-labs-gos/privateOmega-html-to-docx"
   },
   "author": "privateOmega <privateOmega@protonmail.com>",
   "contributors": [
@@ -39,7 +39,11 @@
     "zedtux <zedtux@zedroot.org>",
     "hlerebours",
     "hakjeri",
-    "tasola"
+    "tasola",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "license": "MIT",
   "bugs": {
